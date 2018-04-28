@@ -2,6 +2,7 @@
 
 AUTHOR: ANIKET BATABYAL (anarchy_monkey)
 
+TARGET OPERATING SYSTEM : WINDOWS XP,VISTA,7,8,8.1,10.
 
 +This is a billing system which is connected with xammp.
 +This was a project meant to be shown as a Object oriented project with various aspects/properties of C++ used.
