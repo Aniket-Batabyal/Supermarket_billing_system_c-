@@ -192,8 +192,8 @@ protected:
             public:
 
                 void getshampoodata();
-            };
-*/
+            }; */
+
 
 class MATERIAL_CHOICES:public virtual Electronics,public virtual Mobile,public virtual Laptops,public virtual Mobile_Accessories,public virtual Foods_and_Beverages,public virtual Soaps
 {
