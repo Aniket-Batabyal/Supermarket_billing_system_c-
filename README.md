@@ -38,6 +38,8 @@ The Sum class has an addition of 'DATABASE CONNECTIVITY' where the name and the 
 DATABASE NAME :  CPP
 DATABASE TABLE NAME: ABCD
 
+* You Can make your own database , but try to maintain the syntax*
+
  
 
 
